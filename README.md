@@ -1,8 +1,8 @@
 @hecrean
 
-- Languages: Typescript, Rust, WebGPU, Webassembly
+- Languages: Typescript, Rust, WebGPU, wgsl
 - Frameworks/Libraries: React, three.js, @react-three/fiber
-
+- Currently learning: Julia, Webassembly
 
 
 <!---
